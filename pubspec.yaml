@@ -1,0 +1,15 @@
+name: bmi_nutrition_app
+description: A BMI, BMR, TDEE and nutrition AI assistant using Flutter and Groq API.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^0.13.6
+
+flutter:
+  uses-material-design: true
